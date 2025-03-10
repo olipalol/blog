@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Личный блог об аналитике, SciFi, и может быть котиках
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+О чем? Видно из заголовка. 
+Но главное это место где я могу осознанно расти как профессионал и личность - не быть потребителем, быть создателем, хотя бы небольших статей.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Кто я? Потом возможно напишу.

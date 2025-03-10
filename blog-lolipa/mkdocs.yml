@@ -1,7 +1,14 @@
-site_name: lolipa
-site_dir: docs
-pages:
-  - Home: index.md
-  - About: about.md
+site_name: Личный блог о всяком
+
+nav:
+  - О чем это все: index.md
+  - Впечатления о книгах:
+    - reviews/lukyanenko_porog_1.md
+    - reviews/sworm.md
+    - reviews/plotnikov_enemy.md
+
 theme:
   name: material
+
+plugins:
+  - search
